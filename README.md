@@ -148,3 +148,7 @@ window.open(url, '_blank');
 ```javascript
 window.open(url, '_blank', 'width=800,height=600');
 ```
+
+# Restricted Trademark Usage
+
+QUX® and QUXPay™ are registered trademarks of QUX Technologies, Inc. Using this code, software, or any part of it does not give permission for using the QUX® trademark. Trademark usage can be granted as part of QUX® commercial, corporate, or merchant agreements. For more information about using QUX® trademarks, please visit https://qux.tv or contact QUX® Technologies.
